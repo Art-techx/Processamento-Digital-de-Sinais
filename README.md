@@ -1,4 +1,5 @@
 # Digital Signal Processing using Python (Baseado no Livro Digital Signal Processing using MATLAB)
+# Autoria: Arthur Dantas Medeiros e Tiago de Lima Fernandes
 
 ## Visão Geral
 
