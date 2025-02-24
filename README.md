@@ -83,4 +83,3 @@ Cada capítulo listado abaixo possui um link correspondente para um notebook no 
 1. Acesse os notebooks no Google Colab através dos links fornecidos.
 2. Execute as células de código para visualizar os resultados.
 3. Assista aos vídeos explicativos para aprofundamento.
-4. Modifique os parâmetros das simulações para testar diferentes cenários.
