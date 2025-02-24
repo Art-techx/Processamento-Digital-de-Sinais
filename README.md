@@ -41,7 +41,7 @@ Cada capítulo listado abaixo possui um link correspondente para um notebook no 
 
 ### **Capítulo 6: Implementação de Filtros Discretos no Tempo**
 
-📌 [Notebook/Colab](https://colab.research.google.com/drive/1YSYgBzgvCsSIP8gbxIAe7Oj6A9baZBbl) | 🎥 [Vídeos](#)
+📌 [Notebook/Colab](https://colab.research.google.com/drive/1YSYgBzgvCsSIP8gbxIAe7Oj6A9baZBbl) | 🎥 [Vídeos](https://youtu.be/MgyrrXGTsok?si=isnk3nL4hGkfX19D)
 
 - Estruturas básicas de filtros digitais.
 - Implementação de filtros IIR e FIR.
@@ -51,7 +51,7 @@ Cada capítulo listado abaixo possui um link correspondente para um notebook no 
 
 ### **Capítulo 7: Projeto de Filtros FIR**
 
-📌 [Notebook/Colab](https://colab.research.google.com/drive/1b8iSZjhVxR8MQHhqKe7QFCAXdrefbMay) | 🎥 [Vídeos](#)
+📌 [Notebook/Colab](https://colab.research.google.com/drive/1b8iSZjhVxR8MQHhqKe7QFCAXdrefbMay) | 🎥 [Vídeos](https://www.youtube.com/live/u_tFWolPZY0?si=95fwgcqHr_CyGCLt)
 
 - Propriedades dos filtros FIR de fase linear.
 - Métodos de projeto baseados em janelas.
@@ -60,7 +60,7 @@ Cada capítulo listado abaixo possui um link correspondente para um notebook no 
 
 ### **Capítulo 8: Projeto de Filtros IIR**
 
-📌 [Notebook/Colab](https://colab.research.google.com/drive/13CBFwjdCyv_2qmtmFXrzJuKKw7X_O0e3) | 🎥 [Vídeos](#)
+📌 [Notebook/Colab](https://colab.research.google.com/drive/13CBFwjdCyv_2qmtmFXrzJuKKw7X_O0e3) | 🎥 [Vídeos](https://youtu.be/jLnhm4JgmCw?si=LP6tufeKl7ilqOhG)
 
 - Características dos filtros analógicos protótipos.
 - Transformações de filtros analógicos para digitais.
