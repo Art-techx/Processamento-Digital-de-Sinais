@@ -68,7 +68,7 @@ Cada capítulo listado abaixo possui um link correspondente para um notebook no 
 
 ### **Capítulo 12: Aplicações em Comunicações**
 
-📌 [Notebook/Colab](https://colab.research.google.com/drive/1_gqRvQDD9MHGrrjj21xjwfCZQB8UC2Nc) | 🎥 [Vídeos]
+📌 [Notebook/Colab](https://colab.research.google.com/drive/1_gqRvQDD9MHGrrjj21xjwfCZQB8UC2Nc) | 🎥 Vídeos
 
 - Modulação por Código de Pulso (PCM). [🎥](#)
 - PCM diferencial (DPCM) e PCM adaptativo (ADPCM). [🎥](#)
