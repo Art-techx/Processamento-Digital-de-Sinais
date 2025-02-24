@@ -70,11 +70,11 @@ Cada capítulo listado abaixo possui um link correspondente para um notebook no 
 
 📌 [Notebook/Colab](https://colab.research.google.com/drive/1_gqRvQDD9MHGrrjj21xjwfCZQB8UC2Nc) | 🎥 [Vídeos](https://www.youtube.com/watch?v=vs5kBqziXO0&list=PLeKMk5StAeXXRqgHzIKe_MkZekrhY4mX1)
 
-- Modulação por Código de Pulso (PCM). [Vídeo](#)
-- PCM diferencial (DPCM) e PCM adaptativo (ADPCM). Vídeo(#)
-- Modulação Delta (DM) e Modulação Delta Adaptativa (ADM). Vídeo(#)
-- Codificação preditiva linear (LPC) aplicada à voz. Vídeo(#)
-- Geração e detecção de sinais DTMF (Dual-tone Multifrequency). Vídeo(#)
+- Modulação por Código de Pulso (PCM). 
+- PCM diferencial (DPCM) e PCM adaptativo (ADPCM). 
+- Modulação Delta (DM) e Modulação Delta Adaptativa (ADM).
+- Codificação preditiva linear (LPC) aplicada à voz.
+- Geração e detecção de sinais DTMF (Dual-tone Multifrequency).
 - Aplicações de detecção de sinal em comunicações digitais e espectro expandido.
 
 ## Como Usar
