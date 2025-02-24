@@ -20,7 +20,7 @@ Cada capítulo listado abaixo possui um link correspondente para um notebook no 
 
 ### **Capítulo 4: A Transformada-z**
 
-📌 [Notebook/Colab](https://colab.research.google.com/drive/1iTAHm1wj9RlVbknMIXgbDbclwKG-pIVf) | 🎥 [Vídeos]([#](https://youtu.be/a4ilqPa6l34?si=oIaKKL-rix-SMsC-)) | 🌐 [Simulações na Web](#)
+📌 [Notebook/Colab](https://colab.research.google.com/drive/1iTAHm1wj9RlVbknMIXgbDbclwKG-pIVf) | 🎥 [Vídeos](https://youtu.be/a4ilqPa6l34?si=oIaKKL-rix-SMsC-)
 
 - Definição da transformada-z bilateral e unilateral.
 - Determinação da região de convergência (ROC) e suas implicações na estabilidade do sistema.
@@ -31,7 +31,7 @@ Cada capítulo listado abaixo possui um link correspondente para um notebook no 
 
 ### **Capítulo 5: Transformada Discreta de Fourier (DFT)**
 
-📌 [Notebook/Colab](https://colab.research.google.com/drive/1pqpXBGngvTrUIPifbly_0us5butGywbV) | 🎥 [Vídeos](https://youtu.be/71WWCtYd7Lo?si=3b9IQyYeWO-qB4Um) | 🌐 [Simulações na Web](#)
+📌 [Notebook/Colab](https://colab.research.google.com/drive/1pqpXBGngvTrUIPifbly_0us5butGywbV) | 🎥 [Vídeos](https://youtu.be/71WWCtYd7Lo?si=3b9IQyYeWO-qB4Um)
 
 - Introdução à Série de Fourier Discreta.
 - Amostragem e reconstrução no domínio-z.
@@ -41,7 +41,7 @@ Cada capítulo listado abaixo possui um link correspondente para um notebook no 
 
 ### **Capítulo 6: Implementação de Filtros Discretos no Tempo**
 
-📌 [Notebook/Colab](https://colab.research.google.com/drive/1YSYgBzgvCsSIP8gbxIAe7Oj6A9baZBbl) | 🎥 [Vídeos](#) | 🌐 [Simulações na Web](#)
+📌 [Notebook/Colab](https://colab.research.google.com/drive/1YSYgBzgvCsSIP8gbxIAe7Oj6A9baZBbl) | 🎥 [Vídeos](#)
 
 - Estruturas básicas de filtros digitais.
 - Implementação de filtros IIR e FIR.
@@ -51,7 +51,7 @@ Cada capítulo listado abaixo possui um link correspondente para um notebook no 
 
 ### **Capítulo 7: Projeto de Filtros FIR**
 
-📌 [Notebook/Colab](https://colab.research.google.com/drive/1b8iSZjhVxR8MQHhqKe7QFCAXdrefbMay) | 🎥 [Vídeos](#) | 🌐 [Simulações na Web](#)
+📌 [Notebook/Colab](https://colab.research.google.com/drive/1b8iSZjhVxR8MQHhqKe7QFCAXdrefbMay) | 🎥 [Vídeos](#)
 
 - Propriedades dos filtros FIR de fase linear.
 - Métodos de projeto baseados em janelas.
@@ -60,7 +60,7 @@ Cada capítulo listado abaixo possui um link correspondente para um notebook no 
 
 ### **Capítulo 8: Projeto de Filtros IIR**
 
-📌 [Notebook/Colab](https://colab.research.google.com/drive/13CBFwjdCyv_2qmtmFXrzJuKKw7X_O0e3) | 🎥 [Vídeos](#) | 🌐 [Simulações na Web](#)
+📌 [Notebook/Colab](https://colab.research.google.com/drive/13CBFwjdCyv_2qmtmFXrzJuKKw7X_O0e3) | 🎥 [Vídeos](#)
 
 - Características dos filtros analógicos protótipos.
 - Transformações de filtros analógicos para digitais.
@@ -69,7 +69,7 @@ Cada capítulo listado abaixo possui um link correspondente para um notebook no 
 
 ### **Capítulo 12: Aplicações em Comunicações**
 
-📌 [Notebook/Colab](https://colab.research.google.com/drive/1_gqRvQDD9MHGrrjj21xjwfCZQB8UC2Nc) | 🎥 [Vídeos](#) | 🌐 [Simulações na Web](#)
+📌 [Notebook/Colab](https://colab.research.google.com/drive/1_gqRvQDD9MHGrrjj21xjwfCZQB8UC2Nc) | 🎥 [Vídeos](#)
 
 - Modulação por Código de Pulso (PCM).
 - PCM diferencial (DPCM) e PCM adaptativo (ADPCM).
