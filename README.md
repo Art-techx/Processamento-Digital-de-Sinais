@@ -41,7 +41,7 @@ Cada capítulo listado abaixo possui um link correspondente para um notebook no 
 
 ### **Capítulo 6: Implementação de Filtros Discretos no Tempo**
 
-📌 [Notebook/Colab](#) | 🎥 [Vídeos](#) | 🌐 [Simulações na Web](#)
+📌 [Notebook/Colab](https://colab.research.google.com/drive/1YSYgBzgvCsSIP8gbxIAe7Oj6A9baZBbl) | 🎥 [Vídeos](#) | 🌐 [Simulações na Web](#)
 
 - Estruturas básicas de filtros digitais.
 - Implementação de filtros IIR e FIR.
