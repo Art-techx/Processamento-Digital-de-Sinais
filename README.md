@@ -20,7 +20,7 @@ Cada capítulo listado abaixo possui um link correspondente para um notebook no 
 
 ### **Capítulo 4: A Transformada-z**
 
-📌 [Notebook/Colab](https://colab.research.google.com/drive/1iTAHm1wj9RlVbknMIXgbDbclwKG-pIVf) | 🎥 [Vídeos](#) | 🌐 [Simulações na Web](#)
+📌 [Notebook/Colab](https://colab.research.google.com/drive/1iTAHm1wj9RlVbknMIXgbDbclwKG-pIVf) | 🎥 [Vídeos]([#](https://youtu.be/a4ilqPa6l34?si=oIaKKL-rix-SMsC-)) | 🌐 [Simulações na Web](#)
 
 - Definição da transformada-z bilateral e unilateral.
 - Determinação da região de convergência (ROC) e suas implicações na estabilidade do sistema.
@@ -31,7 +31,7 @@ Cada capítulo listado abaixo possui um link correspondente para um notebook no 
 
 ### **Capítulo 5: Transformada Discreta de Fourier (DFT)**
 
-📌 [Notebook/Colab](https://colab.research.google.com/drive/1pqpXBGngvTrUIPifbly_0us5butGywbV) | 🎥 [Vídeos](#) | 🌐 [Simulações na Web](#)
+📌 [Notebook/Colab](https://colab.research.google.com/drive/1pqpXBGngvTrUIPifbly_0us5butGywbV) | 🎥 [Vídeos](https://youtu.be/71WWCtYd7Lo?si=3b9IQyYeWO-qB4Um) | 🌐 [Simulações na Web](#)
 
 - Introdução à Série de Fourier Discreta.
 - Amostragem e reconstrução no domínio-z.
