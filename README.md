@@ -68,13 +68,13 @@ Cada capítulo listado abaixo possui um link correspondente para um notebook no 
 
 ### **Capítulo 12: Aplicações em Comunicações**
 
-📌 [Notebook/Colab](https://colab.research.google.com/drive/1_gqRvQDD9MHGrrjj21xjwfCZQB8UC2Nc) | 🎥 [Vídeos](#)
+📌 [Notebook/Colab](https://colab.research.google.com/drive/1_gqRvQDD9MHGrrjj21xjwfCZQB8UC2Nc) | 🎥 [Vídeos]
 
-- Modulação por Código de Pulso (PCM).
-- PCM diferencial (DPCM) e PCM adaptativo (ADPCM).
-- Modulação Delta (DM) e Modulação Delta Adaptativa (ADM).
-- Codificação preditiva linear (LPC) aplicada à voz.
-- Geração e detecção de sinais DTMF (Dual-tone Multifrequency).
+- Modulação por Código de Pulso (PCM). 🎥 (#)
+- PCM diferencial (DPCM) e PCM adaptativo (ADPCM). 🎥 (#)
+- Modulação Delta (DM) e Modulação Delta Adaptativa (ADM). 🎥 (#)
+- Codificação preditiva linear (LPC) aplicada à voz. 🎥 (#)
+- Geração e detecção de sinais DTMF (Dual-tone Multifrequency). 🎥 (#)
 - Aplicações de detecção de sinal em comunicações digitais e espectro expandido.
 
 ## Como Usar
