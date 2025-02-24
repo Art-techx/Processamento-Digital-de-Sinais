@@ -2,14 +2,13 @@
 
 ## Visão Geral
 
-Este repositório contém resumos e implementações em Python dos principais conceitos abordados no livro *Digital Signal Processing using MATLAB*, adaptados para Google Colab. O objetivo é explorar cada tópico por meio de simulações e análise computacional.
+Este repositório contém resumos e implementações em Python dos principais conceitos abordados no livro *Digital Signal Processing using MATLAB*, adaptados para Google Colab. O objetivo é explorar cada tópico por meio de análise computacional.
 
 Cada capítulo inclui:
 
 - **Resumo teórico detalhado** 📖
 - **Explicação das equações principais** 📊
 - **Conversão de códigos MATLAB para Python** 🔄
-- **Simulações computacionais interativas** 💻
 - **Links para vídeos explicativos** 🎥
 
 ## Estrutura do Repositório
